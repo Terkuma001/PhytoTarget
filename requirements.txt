@@ -1,0 +1,5 @@
+streamlit
+biopython
+pubchempy
+pandas
+requests
